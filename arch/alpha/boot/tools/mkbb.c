@@ -2,7 +2,7 @@
 
 /* Usage:
  *	mkbb <device> <lxboot>
- *
+ * OK
  * Where <device> is the name of the device to install the bootblock on,
  * and <lxboot> is the name of a bootblock to merge in.  This bootblock
  * contains the offset and size of the bootloader.  It must be exactly
