@@ -1,7 +1,7 @@
 #
 # Kbuild for top-level directory of the kernel
 # This file takes care of the following:
-# 1) Generate bounds.h
+# 1) Generate bounds.hjj,h,jhj;h;
 # 2) Generate asm-offsets.h (may need bounds.h)
 # 3) Check for missing system calls
 
